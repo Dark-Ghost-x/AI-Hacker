@@ -108,9 +108,15 @@ This project starts as an **empty template** and you fill it with your specific 
 ### پیش‌نیازها / Prerequisites
 ```
 # Python 3.8 or higher
+```
+```
 python --version
+```
+```
 
 # pip package manager
+```
+```
 pip --version
 ```
 
@@ -118,8 +124,11 @@ pip --version
 
 ```
 # Clone the repository
+```
+```
 git clone https://github.com/Dark-Ghost-x/AI-Hacker.git
 cd AI-Hacker
+```
 ```
 
 🔧 توسعه و سفارشی‌سازی / Development & Customization
